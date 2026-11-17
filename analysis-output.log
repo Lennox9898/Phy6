@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": [
+    "legacy-v1-nine-float-layout",
+    "all-64-packed-field-combinations-and-view-availability",
+    "selected-view-dependencies-and-invalid-mask-rejection",
+    "bounded-work-slices-and-live-frame-reserve"
+  ]
+}
